@@ -1,0 +1,31 @@
+{
+  "name": "win-key",
+  "version": "0.1.0",
+  "description": "Retrieve your Windows Product Key using Node.js.",
+  "bin": {
+    "win-key": "cli.js"
+  },
+  "main": "index.js",
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "win",
+    "windows",
+    "product",
+    "key",
+    "produkey"
+  ],
+  "devDependencies": {
+    "unzip": "^0.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/win-key.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/win-key/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/win-key"
+}
